@@ -12,16 +12,6 @@ import java.util.Scanner;
 public class beerCalc {
 
 	public static void main(String[] args) {
-//		On average, how many beers will you consume each day?
-//				2.5
-//
-//		On average, how much will you pay for each can of beer?
-//				1.25
-//		That is approximately 912.50 beers in one year.
-//		In one year, you will consume approximately 136875.00 calories from beer alone.
-		
-//		Without diet or exercise to counter these calories, you can expect to gain 37.50 pounds 
-//		from drinking that much beer this year.
 		
 		Scanner beerInfo = new Scanner(System.in);
 		
